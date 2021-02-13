@@ -1,0 +1,6 @@
+
+Observation 1: The correlation between cloudiness and latitude in the Southern hemisphere is not significant. There are many outliers
+
+Observation 2: The correlation between wind speed and latitude in the Southern hemisphere is not significant
+
+Observation 3: The correlation between wind speed and latitude in the northern hemisphere is significant. 
